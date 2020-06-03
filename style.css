@@ -38,6 +38,10 @@ body {
   margin: 0.5rem;
 }
 
+.start-btn-container {
+  width: 50px;
+}
+
 .btn {
   color: #fff;
   background: none;
